@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: back.backApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.414 sec - in back.backApplicationTests
