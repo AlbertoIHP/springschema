@@ -45,6 +45,15 @@ To create your own **seeders**, we use **SQL lenguage**, by configuring the data
 
 Finally you have to install Maven in your system, by using the command `sudo apt install maven` then run `mvn spring-boot:run` and system will deploy and create the whole data model in your database **(Rembember to create first in your database engine the database**).
 
+## Scaffolding (Powered by https://github.com/jlmonteagudo/generator-spring-rest-jwt) <3
+
+* First we need install this packages (you must have install npm in your machine) 
+`
+npm install -g yo;
+npm install -g generator-spring-rest-jwt
+`
+
+* Then you can create by using the command yo `spring-rest-jwt:resource`, this will auto generate all steps at  Add new elements to my model (components) of this document and below.
 
 
 
