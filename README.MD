@@ -43,7 +43,7 @@ To create your own **seeders**, we use **SQL lenguage**, by configuring the data
 
 ## Maven installation
 
-Finally you have to install Maven in your system, by using the command `sudo apt install maven` then run `mvn spring-boot:run` and system will deploy and create the whole data model in your database **(Rembember to create first in your database engine the database**).
+Finally you have to install Maven in your system, by using the command `sudo apt install maven`, then run `mvn install` inside of the project, then run `mvn spring-boot:run` and system will deploy and create the whole data model in your database **(Rembember to create first in your database engine the database**).
 
 ## Scaffolding (Powered by https://github.com/jlmonteagudo/generator-spring-rest-jwt) <3
 
